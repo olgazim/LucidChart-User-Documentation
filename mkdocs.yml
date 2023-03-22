@@ -1,4 +1,23 @@
 site_name: Lucidchart User Documentation
 
+nav:
+  - Home:
+  - General Operations:
+  - Formatting Shapes: pages/Olga_formatting_shapes.md
+  - Formatting Lines:
+  - Troubleshooting:
+  - Glossary:
+
 theme:
   name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
