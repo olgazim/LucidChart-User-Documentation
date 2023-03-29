@@ -1,12 +1,12 @@
 site_name: Lucidchart User Documentation
 
 nav:
-  - Home:
-  - General Operations:
+#  - Home:
+#  - General Operations:
   - Formatting Shapes: pages/Olga_formatting_shapes.md
-  - Formatting Lines:
-  - Troubleshooting:
-  - Glossary:
+#  - Formatting Lines:
+#  - Troubleshooting:
+#  - Glossary:
 
 theme:
   name: material
@@ -16,8 +16,29 @@ theme:
     - navigation.sections
     - navigation.expand
 
+  palette:
+
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue grey
+      accent: deep purple
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: red
+      accent: red
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
   - tables
+
