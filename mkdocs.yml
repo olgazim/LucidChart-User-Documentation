@@ -2,7 +2,7 @@ site_name: Lucidchart User Documentation
 
 nav:
 #  - Home:
-#  - General Operations:
+  - General Operations: pages/Shuyi_create_share_export.md
   - Formatting Shapes: pages/Olga_formatting_shapes.md
 #  - Formatting Lines:
 #  - Troubleshooting:
