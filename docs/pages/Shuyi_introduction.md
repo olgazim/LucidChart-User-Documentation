@@ -1,4 +1,4 @@
-# Overview
+# Introduction
 
 The purpose of this document is to help you with Lucidchart, a web-based diagramming application that CST students use a lot in CST courses. Lucidchart allows users to collaborate on drawing, editing and sharing diagrams. If you are interested in more information about Lucidchart’s functions, please visit <https://lucidchart.zendesk.com/hc/en-us/categories/360001742031-Get-Started-with-Lucidchart>.
 
@@ -31,6 +31,7 @@ These instructions use the following typographic conventions:
 | Menu & Button Sequence: Menu and Buttons are enclosed with square brackets. The → symbol indicates flow of menu or button click actions. | [Students] → [Higher Education] → [Start diagramming] |
 
 # Admonitions
+
 This guide uses success, warning and note messages to provide additional information for instruction steps.
 
 !!!success
