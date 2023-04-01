@@ -6,8 +6,8 @@ nav:
   - General Operations: pages/Shuyi_create_share_export.md
   - Formatting Shapes: pages/Olga_formatting_shapes.md
 #  - Formatting Lines:
-#  - Troubleshooting:
-#  - Glossary:
+  - Troubleshooting: pages/Shuyi_Troubleshooting.md
+  - Glossary: pages/Shuyi_Glossary.md
 
 theme:
   name: material
