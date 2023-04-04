@@ -56,13 +56,20 @@ You can change the fill color of a shape, border thickness, style, or color.
 1. Select a shape you want to modify by clicking it.
 2. Click the paint bucket icon in the formatting bar.
 ![Paint bucket icon](/images/paint-bucket.png)
-3. Select a color from a menu, create your color, or change the opacity on a fill color.
+3. Select a color from a menu, add your color, or change the opacity of a fill color.
 ![Change a shape color](/images/change-shape-color.gif)
+
 # Border style
+## Change line color
 1. Select a shape you want to modify by clicking on it.
 2. Click the pen icon in the formatting bar.
 ![Pen icon](/images/pen-icon.png)
-3. Select a border color from the menu, line thickness, or border type.
+3. Select a border color from the menu
+## Change line thickness and border type
+1. Select a shape you want to modify by clicking on it.
+2. Navigate to the 'Line Style' dropdowns in the formatting bar.
+![The "Line Style" dropdowns](/images/line-style-dropwons.png)
+3. Select border thickness, or border type.
 
 ## Set default style
 To change the default style for all shapes in your project.
