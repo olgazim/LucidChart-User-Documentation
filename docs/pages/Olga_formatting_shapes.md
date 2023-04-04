@@ -55,7 +55,7 @@ You can change fill color of a shape or a border thickness, style or color.
 # Fill color
 1. Select a shape you want to modify by clicking on it.
 2. Click the paint bucket icon in the formatting bar.
-![Paint bucket icon](/images/color-bucket.png)
+![Paint bucket icon](/images/paint-bucket.png)
 3. Select a color from a menu, create your own color or change opacity on a fill color.
 ![Change a shape color](/images/change-shape-color.gif)
 # Border style
