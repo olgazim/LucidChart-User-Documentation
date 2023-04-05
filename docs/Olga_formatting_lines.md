@@ -151,14 +151,14 @@ A textbox will appear.
 
 
 ## Change line path
-### Modify the path of an angled line
+### Change the path of an angled line
 
 1. **Select** a line you want to modify by clicking on it.
 2. **Click** and **drag** the blue squares to change the path in the desired direction.
 3. **Click** the blank canvas to apply changes.
 ![Change line path](./images/change-angled-line-path.gif)
 
-### Modify the path of a straight or curved line
+### Change the path of a straight or curved line
 
 1. Select a line you want to modify by clicking on it.
 2. Use the white square in the center of a line to change a path by clicking on the square and dragging the cursor in the desired direction.
