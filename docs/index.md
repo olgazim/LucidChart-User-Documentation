@@ -2,7 +2,7 @@
 
 The purpose of this document is to help you with Lucidchart, a web-based diagramming application that CST students use frequently in CST courses. Lucidchart allows users to collaborate on drawing, editing, and sharing diagrams.
 
-If you are interested in more information about Lucidchart’s functions, please visit <https://lucidchart.zendesk.com/hc/en-us/categories/360001742031-Get-Started-with-Lucidchart>.
+If you are interested in more information about Lucidchart’s functions, please visit [Lucidchart website](https://lucidchart.zendesk.com/hc/en-us/categories/360001742031-Get-Started-with-Lucidchart).
 
 ## Is This Guide for You?
 
@@ -10,10 +10,10 @@ This guide is created for term 1 CST students who have no experience with Lucidc
 
 ## By the end of this guide, you will be able to
 
-1. Create a free upgraded Lucidchart account
-2. Perform general operations in Lucidchart
-3. Add and format shapes in Lucidchart
-4. Add and format lines in Lucidchart
+* Create a free upgraded Lucidchart account
+* Perform general operations in Lucidchart
+* Add and format shapes in Lucidchart
+* Add and format lines in Lucidchart
 
 ## Prerequisites
 
