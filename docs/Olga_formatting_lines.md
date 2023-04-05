@@ -15,10 +15,15 @@ side of the "Standard" set name. You will see a list of all shapes available for
 !!! warning
     If you don't have any shapes set in the Shapes menu.
 
-    [Check the 'Add a shape library' section.](/Olga_formatting_shapes.md/#add_shape)
-![Line in the Shapes set](../images/line_in_shapes_set.png)
+    [Check the 'Add a shape library' section.](./Olga_formatting_shapes.md/#add_shape)
+<figure markdown>
+    ![Line in the Shapes set](./images/line_in_shapes_set.png){width="600"}
+</figure>
+
 2. **Click** an arrow icon and drag the element onto the canvas.
-![Drag a line from the Shapes set](./images/drag_line_from_shapes_set.gif)
+<figure markdown>
+    ![Drag a line from the Shapes set](./images/drag_line_from_shapes_set.gif){width="500"}
+</figure>
 !!!success
     Now a line is displayed on your canvas.
 
