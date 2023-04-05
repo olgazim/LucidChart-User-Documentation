@@ -12,7 +12,7 @@ side of the set name.
 You will see a list of shapes available for the selected set.
 
 <figure markdown>
-![Shape panel](./images/shapes-panel.gif){width="600"}
+![Shape panel](./images/shapes-panel.gif){width="650"}
 </figure>
 
 !!!note
@@ -25,7 +25,9 @@ You will see a list of shapes available for the selected set.
 
 2. **Drag** the desired shape from the list and **drop** it onto the canvas.
 
-![Add a shape on the canvas](./images/add-shape-on-canvas.gif)
+<figure markdown>
+![Add a shape on the canvas](./images/add-shape-on-canvas.gif){width="800"}
+</figure>
 
 !!!success
     The shape will appear on the canvas and is ready for further action.
@@ -40,7 +42,10 @@ You will see the 'Insert content' window.
 corner. For example, 'flowchart'.
 4. **Check** the [checkbox] next to the sets you want to work with.
 5. **Click** the [Use selected shapes] button in the bottom-right corner.
-![Add a Shape Library](./images/add-shape-library.gif)
+
+<figure markdown>
+![Add a Shape Library](./images/add-shape-library.gif){width="800"}
+</figure>
 !!!success
     After you close the 'Insert content' window, you can see the selected shape library
     displayed on the Shapes panel.
@@ -51,7 +56,9 @@ corner. For example, 'flowchart'.
 
 2. **Press** the 'Delete' or 'Backspace' key to delete or **right-click** the mouse on the shape and **select** [Delete].
 
-![Delete a shape](./images/delete-shape.gif)
+<figure markdown>
+![Delete a shape](./images/delete-shape.gif){width="800"}
+</figure>
 !!!success
     The shape has been deleted.
 
@@ -67,7 +74,10 @@ You can change the fill color of a shape, border thickness, style, or color.
 ![Paint bucket icon](./images/paint-bucket.png)
 
 3. **Select** the desired color from the menu. Colors are listed in different opacities and filling styles.
-![Change a shape color](./images/change-shape-color.gif)
+
+<figure markdown>
+![Change a shape color](./images/change-shape-color.gif){width="800"}
+</figure>
 
 ### Border style
 
