@@ -146,8 +146,8 @@ A textbox will appear.
 3. **Remove** the text by pressing the 'Delete' key on your keyboard.
 ![Remove text inscription](/images/remove-text-inscription.gif)
 
-# Change line path
 
+# Change line path
 ## Modify the path of an angled line
 
 1. **Select** a line you want to modify by clicking on it.
