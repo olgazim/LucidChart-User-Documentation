@@ -16,7 +16,7 @@ Even though the description mentioned there are a limited number of documents, s
 
 !!!warning
     Use myBCIT email address to register in order to get unlimited uses of shapes and documents.
-![Shape panel](/images/enter-register-information.png)
+![Shape panel](./images/enter-register-information.png)
 
 !!!success
     Congratulations! You have successfully created a Lucidchart account.
