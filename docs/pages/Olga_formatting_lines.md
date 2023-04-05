@@ -1,14 +1,14 @@
-# Overview
+## Overview
 
 The line is the most common element of any Lucidchart diagram. We aim to make working with lines easy
 and intuitive for a student. There are various tools to create and modify lines
 and the guide provides information on how students can create and modify lines.
 
-# Add a regular line to your document
+## Add a regular line to your document
 
 There are three ways a student can add a regular line.
 
-## Add a line from a shapes menu
+### Add a line from a shapes menu
 
 1. **Choose** the Standard shapes set by clicking the arrow on the left.
 side of the "Standard" set name. You will see a list of all shapes available for the selected set.
@@ -22,7 +22,7 @@ side of the "Standard" set name. You will see a list of all shapes available for
 !!!success
     Now a line is displayed on your canvas.
 
-## Add a line from an existing shape on the canvas
+### Add a line from an existing shape on the canvas
 
 1. **Place** your cursor over any existing shape on the canvas.
 
@@ -38,7 +38,7 @@ You will see red circles appear on the border of the shape.
     Drag the line to any existing shape to make a connection line.
     ![Connect shapes with a line](/images/connect_shape_with_a_line.gif)
 
-## Add a line directly from a canvas
+### Add a line directly from a canvas
 
 1. **Click** the right mouse button on any blank spot on the canvas to see a menu.
 2. **Select** the draw the line option from the menu.
@@ -50,7 +50,7 @@ You will see red circles appear on the border of the shape.
 !!!success
     Now a line is displayed on your canvas.
 
-## Add a smart line to your document
+### Add a smart line to your document
 
 A smart line automatically changes its path between two shapes on a diagram in the most efficient way.
 
@@ -65,13 +65,13 @@ A smart line automatically changes its path between two shapes on a diagram in t
 !!!success
     From now on if you move any of the two shapes, the line will automatically adjust its position.
 
-# Style a line
+## Style a line
 
 Lucidchart provides various options on how you can customize an existing line.
 To start any customization, select a line on the canvas and go to the formatting toolbar to choose a desired
 formatting option.
 
-## Change a line color
+### Change a line color
 
 1. **Select** a line you want to modify by clicking it.
 2. **Click** the pencil icon in the formatting toolbar.
@@ -79,7 +79,7 @@ formatting option.
 3. **Select** a color from a menu or add your color via the [+] button.
 ![Change a line color](/images/change-line-color.gif)
 
-## Change a line shape
+### Change a line shape
 
 1. **Select** a line you want to modify by clicking it.
 2. **Click** the dropdown with a horizontal line in the formatting toolbar.
@@ -88,7 +88,7 @@ formatting option.
 4. **Click** the preferred option to apply shape changes to your line.
 ![Change line style](/images/change-line-shape.gif)
 
-## Change a line style
+### Change a line style
 
 1. **Select** a line you want to modify by clicking on it.
 2. **Click** the dropdown with a horizontal line in the formatting toolbar.
@@ -106,7 +106,7 @@ formatting option.
         * **Choose** the text pill option to draw a line around any text on the line.
         ![Double line](/images/text-pill.png)
 
-## Change a line width
+### Change a line width
 
 1. **Select** a line you want to modify by clicking it.
 2. **Click** the thickness picker next to the line style icon in the formatting toolbar.
@@ -116,7 +116,7 @@ formatting option.
     Lucidchart allows lines width from 0.5px to 10px.
 ![Change line width](/images/change-line-width.gif)
 
-## Change a line endpoint
+### Change a line endpoint
 
 1. **Select** a line you want to modify by clicking it.
 2. **Click** the right or left endpoint dropdown in the formatting bar to change a line's left or right endpoints accordingly.
@@ -127,9 +127,9 @@ formatting option.
     The default style of a line is a one-sided arrow. To set a new default, click on the blank canvas and then choose desired styles of endpoints.
 ![Change line endpoints](/images/change-line-endpoints.gif)
 
-# Text inscriptions
+## Text inscriptions
 
-## Add a text inscription to a line
+### Add a text inscription to a line
 
 1. **Select** a line you want to add text inscription to by double-clicking it.
 
@@ -142,7 +142,7 @@ A textbox will appear.
     You can move a text inscription by clicking on the text box and dragging the text box to the decided location.
 ![Add test inscriptions](/images/add-text-inscriptions.gif)
 
-## Remove a text inscription from a line
+### Remove a text inscription from a line
 
 1. **Double-click** the text box you want to remove.
 2. **Place** your cursor at the end of a text message.
@@ -150,15 +150,15 @@ A textbox will appear.
 ![Remove text inscription](/images/remove-text-inscription.gif)
 
 
-# Change line path
-## Modify the path of an angled line
+## Change line path
+### Modify the path of an angled line
 
 1. **Select** a line you want to modify by clicking on it.
 2. **Click** and **drag** the blue squares to change the path in the desired direction.
 3. **Click** the blank canvas to apply changes.
 ![Change line path](/images/change-angled-line-path.gif)
 
-## Modify the path of a straight or curved line
+### Modify the path of a straight or curved line
 
 1. Select a line you want to modify by clicking on it.
 2. Use the white square in the center of a line to change a path by clicking on the square and dragging the cursor in the desired direction.

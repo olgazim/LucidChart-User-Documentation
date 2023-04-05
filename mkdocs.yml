@@ -1,12 +1,12 @@
 site_name: Lucidchart User Documentation
 
 nav:
-  - Home: index.md
-  - General Operations: pages/Shuyi_create_share_export.md
-  - Formatting Shapes: pages/Olga_formatting_shapes.md
-  - Formatting Lines: pages/Olga_formatting_lines.md
-  - Troubleshooting: pages/Shuyi_Troubleshooting.md
-  - Glossary: pages/Shuyi_Glossary.md
+  - Home: "index.md"
+  - General Operations: "pages/Shuyi_create_share_export.md"
+  - Formatting Shapes: "pages/Olga_formatting_shapes.md"
+  - Formatting Lines: "pages/Olga_formatting_lines.md"
+  - Troubleshooting: "pages/Shuyi_Troubleshooting.md"
+  - Glossary: "pages/Shuyi_Glossary.md"
 
 repo_url: https://github.com/olgazim/LucidChart-User-Documentation
 
@@ -15,10 +15,11 @@ repo_name: olgazim/LucidChart-User-Documentation
 theme:
   name: material
   features:
-    - navigation.instant
+#    - navigation.instant
     - navigation.tracking
     - navigation.sections
-    - navigation.expand
+#    - navigation.expand
+    - navigation.top
     - toc.integrate
 
   palette:
@@ -43,7 +44,7 @@ theme:
 
 markdown_extensions:
   - toc:
-      toc_depth: 2
+      toc_depth: 4
   - admonition
   - pymdownx.details
   - pymdownx.superfences

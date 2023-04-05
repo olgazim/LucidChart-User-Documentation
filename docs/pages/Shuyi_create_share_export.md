@@ -1,8 +1,8 @@
-# Overview
+## Overview
 
 You need to register an account to use Lucidchart. We will be going through how to register an account that has premium functions unlocked, and how to create, share and export a document.
 
-# Register an account
+## Register an account
 
 1. **Open** Lucidchart’s homepage, and **click** [Sign up free] on the top right.
 This will lead you to the signup page.
@@ -21,7 +21,7 @@ Even though the description mentioned there are a limited number of documents, s
 !!!success
     Congratulations! You have successfully created a Lucidchart account.
 
-# Create a Document
+## Create a Document
 
 1. After you create your account, you will see a question page to set up your recommended templates. **Click** [Students] → [Higher Education] → [Start diagramming]. Recommended templates will be generated.
 
@@ -36,7 +36,7 @@ Even though the description mentioned there are a limited number of documents, s
 
     ![Shape panel](/images/open-document-in-future.png)
 
-# Share a Document
+## Share a Document
 
 1. To share the document with others, **open** your document and **click** [Share] on the top right.
 ![Shape panel](/images/share-button.png)
@@ -61,7 +61,7 @@ Even though the description mentioned there are a limited number of documents, s
     You can change other users' permission by **clicking** [Manage] and **selecting** the permission option from the dropdown menu next to the user’s email. When you are finished, **click** [Done].
     ![Shape panel](/images/Change-current-permission.gif)
 
-# Export a document
+## Export a document
 
 1. To export a document, **click** [File] → [Export], and **select** the format you want to save the document in.
 ![Shape panel](/images/export-document.png)

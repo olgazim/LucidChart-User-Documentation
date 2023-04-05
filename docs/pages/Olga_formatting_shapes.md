@@ -1,11 +1,11 @@
-# Overview
+## Overview
 
 Lucidchart provides various tools to create and modify shapes
 while creating diagrams from scratch. This guide provides
 information on several methods on how to deal with shapes.
 Starting from the basics of shapes and providing some advanced tips and tricks.
 
-# Add a shape to your document
+## Add a shape to your document
 
 1. Choose a shape set by **clicking** the [arrow] on the left
 side of the set name.
@@ -27,7 +27,7 @@ You will see a list of shapes available for the selected set.
 !!!success
     The shape will appear on the canvas and is ready for further action.
 
-# <a id = "add_shape"> Add a shape library </a>
+## <a id = "add_shape"> Add a shape library </a>
 
 1. **Click** on the [+ Shape Library] button in the bottom-left corner
 of the window or **press** the 'M' key.
@@ -42,7 +42,7 @@ corner. For example, 'flowchart'.
     After you close the 'Insert content' window, you can see the selected shape library
     displayed on the Shapes panel.
 
-# Delete shape
+## Delete shape
 
 1. **Click** on the shape you want to delete. You will see a blue frame around the shape with squares on it.  
 
@@ -52,11 +52,11 @@ corner. For example, 'flowchart'.
 !!!success
     The shape has been deleted.
 
-# Style shape
+## Style shape
 
 You can change the fill color of a shape, border thickness, style, or color.
 
-## Fill color
+### Fill color
 
 1. **Click** on the shape you want to modify.
 
@@ -66,16 +66,16 @@ You can change the fill color of a shape, border thickness, style, or color.
 3. **Select** the desired color from the menu. Colors are listed in different opacities and filling styles.
 ![Change a shape color](/images/change-shape-color.gif)
 
-## Border style
+### Border style
 
-## Change line color
+#### Change line color
 
 1. **Click** on the shape you want to modify.
 2. **Click** the [pen icon] on the formatting toolbar.
 ![Pen icon](/images/pen-icon.png)
 3. **Select** a border color from the menu.
 
-## Change line thickness and border type
+#### Change line thickness and border type
 
 1. **Click** on the shape you want to modify.
 2. Navigate to the [Line Style] pickers on the formatting toolbar.
@@ -83,7 +83,7 @@ You can change the fill color of a shape, border thickness, style, or color.
 3. **Select** border type from the options in the dropdown, or **set** border thickness in the picker.
 ![Style a shape border](/images/style_shape_border.gif)
 
-## Set default style
+#### Set default style
 
 To change the default style for all shapes in your project:
 
@@ -93,7 +93,7 @@ To change the default style for all shapes in your project:
 !!!success
     From now on, any new shape you add will be styled according to the set style.
 
-## Copy style
+#### Copy style
 
 To apply the same style to all shapes on your canvas:
 
@@ -105,11 +105,11 @@ To apply the same style to all shapes on your canvas:
 !!! success
     The copied style is applied to the shape that was clicked last.
 
-# Manage shapes layout
+## Manage shapes layout
 
 Lucidchart provides great flexibility in managing the layout of the diagram.
 
-## Align
+### Align
 
 To align shapes:
 
@@ -126,7 +126,7 @@ or by **dragging** a box around shapes by **pressing** the left mouse button.
 4. **Select** the alignment option from the list
 ![Align shapes](/images/align-shapes.gif)
 
-## Group
+### Group
 
 To combine several shapes into one object:
 
@@ -138,7 +138,7 @@ or by **dragging** a box around shapes by **pressing** the left mouse button.
 
 [//]: # (NOTE: do we need a gif here? also is "selection" a button that should have []?)
 
-## Lock
+### Lock
 
 To lock a position, size, or style of a shape:
 
