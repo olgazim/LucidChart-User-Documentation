@@ -11,17 +11,17 @@ Starting from the basics of shapes and providing some advanced tips and tricks.
 side of the set name.
 You will see a list of shapes available for the selected set.
 
-<figure markdown>
-![Shape panel](./images/shapes-panel.gif){width="650"}
-</figure>
+    <figure markdown>
+    ![Shape panel](./images/shapes-panel.gif){width="650"}
+    </figure>
 
-!!!note
-    If you can't find the desired shape in the list, you can choose another
-    predefined library or create a custom one.
-
-    [Check the 'Add a shape library' section for more details.](#add_shape)
-
-    [Create a custom shape library](#create_shape_library)
+    !!!note
+        If you can't find the desired shape in the list, you can choose another
+        predefined library or create a custom one.
+    
+        [Check the 'Add a shape library' section for more details.](#add_shape)
+    
+        [Create a custom shape library](#create_shape_library)
 
 2. **Drag** the desired shape from the list and **drop** it onto the canvas.
 

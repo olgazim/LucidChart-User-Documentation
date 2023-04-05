@@ -12,26 +12,23 @@ There are three ways a student can add a regular line.
 
 1. **Choose** the Standard shapes set by clicking the arrow on the left
 side of the "Standard" set name. You will see a list of all shapes available for the selected set.
-!!! warning
-    If you don't have any shapes set in the Shapes menu.
 
-    [Check the 'Add a shape library' section.](./Olga_formatting_shapes.md/#add_shape)
-<figure markdown>
-    ![Line in the Shapes set](./images/line_in_shapes_set.png){width="600"}
-</figure>
+    !!!warning
+        If you don't have any shapes set in the Shapes menu.
+        [Check the 'Add a shape library' section.](./Olga_formatting_shapes.md#add_shape)
+![Line in the Shapes set](./images/line_in_shapes_set.png)
 
 2. **Click** an arrow icon and drag the element onto the canvas.
-<figure markdown>
-    ![Drag a line from the Shapes set](./images/drag_line_from_shapes_set.gif){width="500"}
-</figure>
-!!!success
-    Now a line is displayed on your canvas.
+    ![Drag a line from the Shapes set](./images/drag_line_from_shapes_set.gif)
+
+    !!!success
+        Now a line is displayed on your canvas.
 
 ### Add a line from an existing shape on the canvas
 
 1. **Place** your cursor over any existing shape on the canvas.
 
-You will see red circles appear on the border of the shape.
+    You will see red circles appear on the border of the shape.
 
 2. **Click** any red circle.
 3. **Drag** your cursor from the shape.
@@ -102,9 +99,9 @@ formatting option.
 4. **Click** the selected option to apply style changes to your line.
 ![Change line style](./images/change-line-style.gif)
 
-!!!note
+!!!note 
     - There are three additional shaping options available
-        ***Choose** the double option to split your line into two parallel lines.
+        * **Choose** the double option to split your line into two parallel lines.
         ![Double line](./images/double-line.png)
         * **Choose** the jump option to change the look of the lines crossing.
         ![Double line](./images/line-jump.png)
