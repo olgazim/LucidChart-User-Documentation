@@ -4,7 +4,7 @@ nav:
   - Home: index.md
   - General Operations: pages/Shuyi_create_share_export.md
   - Formatting Shapes: pages/Olga_formatting_shapes.md
-#  - Formatting Lines:
+  - Formatting Lines: pages/Olga_formatting_lines.md
   - Troubleshooting: pages/Shuyi_Troubleshooting.md
   - Glossary: pages/Shuyi_Glossary.md
 
