@@ -52,11 +52,11 @@ corner. For example, 'flowchart'.
 !!!success
     The shape has been deleted.
 
-## Style shape
+# Style shape
 
 You can change the fill color of a shape, border thickness, style, or color.
 
-# Fill color
+## Fill color
 
 1. **Click** on the shape you want to modify.
 
@@ -66,7 +66,7 @@ You can change the fill color of a shape, border thickness, style, or color.
 3. **Select** the desired color from the menu. Colors are listed in different opacities and filling styles.
 ![Change a shape color](/images/change-shape-color.gif)
 
-# Border style
+## Border style
 
 ## Change line color
 
@@ -83,7 +83,7 @@ You can change the fill color of a shape, border thickness, style, or color.
 3. **Select** border type from the options in the dropdown, or **set** border thickness in the picker.
 ![Style a shape border](/images/style_shape_border.gif)
 
-# Set default style
+## Set default style
 
 To change the default style for all shapes in your project:
 
@@ -93,7 +93,7 @@ To change the default style for all shapes in your project:
 !!!success
     From now on, any new shape you add will be styled according to the set style.
 
-# Copy style
+## Copy style
 
 To apply the same style to all shapes on your canvas:
 
