@@ -60,7 +60,7 @@ You can change the fill color of a shape, border thickness, style, or color.
 
 1. **Click** on the shape you want to modify.
 
-2. **Click** the [paint bucket icon] on the formatting bar.
+2. **Click** the [paint bucket icon] on the formatting toolbar.
 ![Paint bucket icon](/images/paint-bucket.png)
 
 3. **Select** the desired color from the menu. Colors are listed in different opacities and filling styles.
@@ -71,14 +71,14 @@ You can change the fill color of a shape, border thickness, style, or color.
 ## Change line color
 
 1. **Click** on the shape you want to modify.
-2. **Click** the [pen icon] on the formatting bar.
+2. **Click** the [pen icon] on the formatting toolbar.
 ![Pen icon](/images/pen-icon.png)
 3. **Select** a border color from the menu.
 
 ## Change line thickness and border type
 
 1. **Click** on the shape you want to modify.
-2. Navigate to the [Line Style] pickers on the formatting bar.
+2. Navigate to the [Line Style] pickers on the formatting toolbar.
 ![The "Line Style" dropdowns](/images/line-style-dropdowns.png)
 3. **Select** border type from the options in the dropdown, or **set** border thickness in the picker.
 ![Style a shape border](/images/style_shape_border.gif)
@@ -98,7 +98,7 @@ To change the default style for all shapes in your project:
 To apply the same style to all shapes on your canvas:
 
 1. **Click** on the shape that you want to copy the style from.
-2. **Click** on the [paint roller brush icon] to copy the style in the formatting bar.
+2. **Click** on the [paint roller brush icon] to copy the style in the formatting toolbar.
 ![Paint format](/images/paint-format-icon.png)
 3. **Click** on the shape you want to apply the style to.
 ![Copy style](/images/copy-and-apply-style.gif)
@@ -141,12 +141,12 @@ or by **dragging** a box around shapes by **pressing** the left mouse button.
 To lock a position, size, or style of a shape:
 
 1. **Click** shapes you want to lock.
-2. **Click** the [lock icon] on the formatting bar.
+2. **Click** the [lock icon] on the formatting toolbar.
 3. In the window, **check** the boxes for all characteristics of a shape you want to lock.
 4. **Close** the window to save changes
 ![Lock shapes](/images/lock-shape.gif)
 !!! note
-    To be able to modify locked position, size, or style of a shape again,  follow the same steps to [Unlock] the sahpe.
+    To be able to modify locked position, size, or style of a shape again,  follow the same steps to [Unlock] the shape.
 
 !!!warning
     If the shape you locked is inside a parent object, such as a container or a group,
