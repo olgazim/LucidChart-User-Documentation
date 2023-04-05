@@ -1,4 +1,4 @@
-# Overview (Lines)
+# Overview 
 The line is the most common element of any Lucidchart diagram. We aim to make working with lines easy
 and intuitive for a student. There are various tools to create and modify lines
 and the guide provides information on how students can create and change lines.
@@ -10,8 +10,10 @@ There are three ways a student can add a regular line.
 1. **Choose** the Standard shapes set by clicking the arrow on the left.
 side of the "Standard" set name. You will see a list of all shapes available for the selected set.
 !!! warning
-If you don't have any shapes set in the Shapes menu. [Check 'Add a shape library' section.](/Olga_formatting_shapes.md/#add_shape)
-![Line in the Shapes set](/images/line_in_shapes_set.gif)
+    If you don't have any shapes set in the Shapes menu. 
+
+    [Check 'Add a shape library' section.](/Olga_formatting_shapes.md/#add_shape)
+![Line in the Shapes set](/images/line_in_shapes_set.png)
 2. **Click** an arrow icon and drag the element onto the canvas.
 ![Drag a line from the Shapes set](/images/drag_line_from_shapes_set.gif)
 !!!success
@@ -21,6 +23,7 @@ If you don't have any shapes set in the Shapes menu. [Check 'Add a shape library
 1. **Place** your cursor over any existing shape on the canvas.
 
 You will see red circles that will appear on the border of the shape.
+
 2. **Click** any red circle.
 3. **Drag** your cursor from the shape.
 4. **Release** a mouse button to add a line on the canvas.
@@ -35,7 +38,7 @@ You will see red circles that will appear on the border of the shape.
 1. **Click** the right mouse button on any blank spot on the canvas to see a menu.
 2. **Select** the draw the line option from the menu.
 3. **Move** the cursor to draw the line and **release** a mouse button to create a line on a blank canvas.
-![Add line via menu](/images/add-line-via-menu)
+![Add line via menu](/images/add-line-via-menu.gif)
 !!!note
     If you need a perfectly straight line at 45&deg; degree, hold 'Shift' keyboard button while drawing a line.
     ![45 degree line](/images/45-degree-line.gif)
@@ -61,15 +64,16 @@ formatting option.
 
 ## Change a line color
 1. **Select** a line you want to modify by clicking it.
-2. **Click** the pencil icon in the formatting bar.
-![Pencil icon](/images/pencil.png)
+2. **Click** the pencil icon in the formatting toolbar. 
+![Pencil icon](/images/pencil-icon.png)
 3. **Select** a color from a menu or add your color via [+] button.
 ![Change a line color](/images/change-line-color.gif)
+
 
 ## Change a line shape
 1. **Select** a line you want to modify by clicking it.
 2. **Click** the dropdown with a horizontal line in the formatting toolbar.
-![Line style icon](/images/line-style-icon.png)
+![Line style dropdown](/images/line-style-dropdown.png)
 3. **Hover** a cursor over options to see how your diagram could look if the option is applied.
 4. **Click** the preferred option to apply shape changes to your line.
 ![Change line style](/images/change-line-shape.gif)
@@ -105,7 +109,7 @@ formatting option.
 ## Change a line endpoint
 1. **Select** a line you want to modify by clicking it.
 2. **Click** the right or left endpoint dropdown in the formatting bar to change a line's left or right endpoints accordingly.
-![Line endpoints dropdowns](/images/line-endpoints-dropdowns.png)
+![Line endpoints dropdowns](/images/line-endpoints-dropdown.png)
 3. **Hover** a cursor over options to see how your endpoint could look if the option is applied.
 4. **Click** the preferred option to apply style changes to your line.
 !!! note
@@ -118,6 +122,7 @@ formatting option.
 1. **Select** a line you want to add text inscription to by double-clicking it. 
 
 A textbox will appear.
+
 2. **Delete** the default text in the box and **put** your text.
 3. **Click** on the black canvas to apply changes.
 
