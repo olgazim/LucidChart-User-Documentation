@@ -89,7 +89,7 @@ To change the default style for all shapes in your project:
 
 1. **Click** anywhere on the canvas to unselect any selected shape.
 2. Set style settings, such as fill color, line style, etc.
-![Set default style](./images/style_shape_border.gif)
+![Set default style](./images/set-default-style.gif)
 !!!success
     From now on, any new shape you add will be styled according to the set style.
 

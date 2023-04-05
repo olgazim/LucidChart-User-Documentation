@@ -10,7 +10,7 @@ There are three ways a student can add a regular line.
 
 ### Add a line from a shapes menu
 
-1. **Choose** the Standard shapes set by clicking the arrow on the left.
+1. **Choose** the Standard shapes set by clicking the arrow on the left
 side of the "Standard" set name. You will see a list of all shapes available for the selected set.
 !!! warning
     If you don't have any shapes set in the Shapes menu.
@@ -120,7 +120,7 @@ formatting option.
 
 1. **Select** a line you want to modify by clicking it.
 2. **Click** the right or left endpoint dropdown in the formatting bar to change a line's left or right endpoints accordingly.
-![Line endpoints dropdowns](./images/line-endpoints-dropdown.png)
+![Line endpoints dropdowns](./images/line-endpoints-dropdowns.png)
 3. **Hover** your cursor over options to see how your endpoint could look if the option is applied.
 4. **Click** the preferred option to apply style changes to your line.
 !!! note
