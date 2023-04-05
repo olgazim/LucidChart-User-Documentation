@@ -5,11 +5,12 @@ You need to register an account to use Lucidchart. We will be going through how 
 ## Register an account
 
 1. **Open** Lucidchart’s homepage, and **click** [Sign up free] on the top right.
-This will lead you to the signup page.
+    
+    This will lead you to the signup page.
 
-<figure markdown>
-  ![Shape panel](./images/sign-up-page.png){width="400"}
-</figure>
+    <figure markdown>
+    ![Shape panel](./images/sign-up-page.png){width="400"}
+    </figure>
 
 2. **Click** [Start free] which is highlighted in orange.
 Even though the description mentioned there are a limited number of documents, shapes, and templates you can use for this option, this restriction will be weaved in the following step.
