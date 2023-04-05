@@ -6,11 +6,11 @@ You need to register an account to use Lucidchart. We will be going through how 
 
 1. **Open** Lucidchart’s homepage, and **click** [Sign up free] on the top right.
 This will lead you to the signup page.
-![Shape panel](/images/sign-up-page.png)
+![Shape panel](images/sign-up-page.png)
 
 2. **Click** [Start free] which is highlighted in orange.
 Even though the description mentioned there are a limited number of documents, shapes, and templates you can use for this option, this restriction will be weaved in the following step.
-![Shape panel](/images/pricing-page.png)
+![Shape panel](doc/images/pricing-page.png)
 
 3. Make sure the [Sign up free] tab is selected. **Enter** the username, email, and password that you want to register with. In order to get unlimited uses of shapes and documents for free, you need to register with your myBCIT email. Once you have entered all the required information correctly, **click** [Create account].
 
