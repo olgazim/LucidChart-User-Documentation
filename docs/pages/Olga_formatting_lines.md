@@ -2,7 +2,7 @@
 
 The line is the most common element of any Lucidchart diagram. We aim to make working with lines easy
 and intuitive for a student. There are various tools to create and modify lines
-and the guide provides information on how students can create and change lines.
+and the guide provides information on how students can create and modify lines.
 
 # Add a regular line to your document
 
@@ -26,7 +26,7 @@ side of the "Standard" set name. You will see a list of all shapes available for
 
 1. **Place** your cursor over any existing shape on the canvas.
 
-You will see red circles that will appear on the border of the shape.
+You will see red circles appear on the border of the shape.
 
 2. **Click** any red circle.
 3. **Drag** your cursor from the shape.
@@ -55,12 +55,15 @@ You will see red circles that will appear on the border of the shape.
 A smart line automatically changes its path between two shapes on a diagram in the most efficient way.
 
 1. **Drag** a line from an existing shape on the canvas to another.
-!!!warning
-    Pull a cursor over the second object, until a blue border appears.
-3. Release the mouse button.
+
+    !!!warning
+        Pull a cursor over the second object, until a blue border appears.
+
+2. Release the mouse button.
 ![Add a smart line](/images/add-smart-line.gif)
+
 !!!success
-    From now on if you move any of two shapes, the line will automatically adjust its position.
+    From now on if you move any of the two shapes, the line will automatically adjust its position.
 
 # Style a line
 
@@ -81,7 +84,7 @@ formatting option.
 1. **Select** a line you want to modify by clicking it.
 2. **Click** the dropdown with a horizontal line in the formatting toolbar.
 ![Line style dropdown](/images/line-style-dropdown.png)
-3. **Hover** a cursor over options to see how your diagram could look if the option is applied.
+3. **Hover** your cursor over options to see how your diagram could look if the option is applied.
 4. **Click** the preferred option to apply shape changes to your line.
 ![Change line style](/images/change-line-shape.gif)
 
@@ -90,7 +93,7 @@ formatting option.
 1. **Select** a line you want to modify by clicking on it.
 2. **Click** the dropdown with a horizontal line in the formatting toolbar.
 ![Line style dropdown](/images/line-style-dropdown.png)
-3. **Hover** a cursor over options to see how your line could look if the option is applied.
+3. **Hover** your cursor over options to see how your line could look if the option is applied.
 4. **Click** the selected option to apply style changes to your line.
 ![Change line style](/images/change-line-style.gif)
 
@@ -118,7 +121,7 @@ formatting option.
 1. **Select** a line you want to modify by clicking it.
 2. **Click** the right or left endpoint dropdown in the formatting bar to change a line's left or right endpoints accordingly.
 ![Line endpoints dropdowns](/images/line-endpoints-dropdown.png)
-3. **Hover** a cursor over options to see how your endpoint could look if the option is applied.
+3. **Hover** your cursor over options to see how your endpoint could look if the option is applied.
 4. **Click** the preferred option to apply style changes to your line.
 !!! note
     The default style of a line is a one-sided arrow. To set a new default, click on the blank canvas and then choose desired styles of endpoints.
@@ -151,7 +154,7 @@ A textbox will appear.
 ## Modify the path of an angled line
 
 1. **Select** a line you want to modify by clicking on it.
-2. **Click** and **drag** blue squares to change the path in the desired direction.
+2. **Click** and **drag** the blue squares to change the path in the desired direction.
 3. **Click** the blank canvas to apply changes.
 ![Change line path](/images/change-angled-line-path.gif)
 
