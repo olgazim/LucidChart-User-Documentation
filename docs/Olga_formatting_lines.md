@@ -131,9 +131,9 @@ formatting option.
 
 ### Add a text inscription to a line
 
-1. **Select** a line you want to add text inscription to by double-clicking it.
+1. **Select** a line you want to add text inscription to by double-clicking it. 
 
-A textbox will appear.
+   A textbox will appear.
 
 2. **Delete** the default text in the box and **put** your text.
 3. **Click** on the black canvas to apply changes.
@@ -160,9 +160,9 @@ A textbox will appear.
 
 ### Change the path of a straight or curved line
 
-1. Select a line you want to modify by clicking on it.
-2. Use the white square in the center of a line to change a path by clicking on the square and dragging the cursor in the desired direction.
-3. Click on the black canvas to apply changes.
+1. **Select** a line you want to modify by clicking on it.
+2. **Use** the white square in the center of a line to change a path by clicking on the square and dragging the cursor in the desired direction.
+3. **Click** on the black canvas to apply changes.
 
 !!!note
     As you start dragging the white square to change a line path, a blue square will appear on each section of the line.
