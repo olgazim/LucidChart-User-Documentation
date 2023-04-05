@@ -11,7 +11,10 @@ Starting from the basics of shapes and providing some advanced tips and tricks.
 side of the set name.
 You will see a list of shapes available for the selected set.
 
-![Shape panel](./images/shapes-panel.gif)
+<figure markdown>
+![Shape panel](./images/shapes-panel.gif){width="600"}
+</figure>
+
 !!!note
     If you can't find the desired shape in the list, you can choose another
     predefined library or create a custom one.

@@ -8,7 +8,7 @@ You need to register an account to use Lucidchart. We will be going through how 
 This will lead you to the signup page.
 
 <figure markdown>
-  ![Shape panel](./images/sign-up-page.png){width="500"}
+  ![Shape panel](./images/sign-up-page.png){width="400"}
 </figure>
 
 2. **Click** [Start free] which is highlighted in orange.
@@ -19,7 +19,10 @@ Even though the description mentioned there are a limited number of documents, s
 
 !!!warning
     Use myBCIT email address to register in order to get unlimited uses of shapes and documents.
-![Shape panel](./images/enter-register-information.png)
+
+<figure markdown>
+  ![Shape panel](./images/enter-register-information.png){width="500"}
+</figure>
 
 !!!success
     Congratulations! You have successfully created a Lucidchart account.
@@ -37,12 +40,17 @@ Even though the description mentioned there are a limited number of documents, s
 !!!note
     To create a new diagram in the future, **click** [+ New], and **click** [Lucidchart] → [Blank Document] in the dropdown menu on your Lucidchart homepage.
 
-    ![Shape panel](./images/open-document-in-future.png)
+    <figure markdown>
+        ![Shape panel](./images/open-document-in-future.png){width="800"}
+    </figure>
 
 ## Share a Document
 
 1. To share the document with others, **open** your document and **click** [Share] on the top right.
-![Shape panel](./images/share-button.png)
+
+<figure markdown>
+![Shape panel](./images/share-button.png){width="500"}
+</figure>
 
 2. There are three ways to share your document. We will introduce the two common options.
 
@@ -51,23 +59,35 @@ Even though the description mentioned there are a limited number of documents, s
     **Enter** the email address or Lucid group that you want to share your document with in the text box, press **return**, and the email address will appear as a gray label inside the box.
     You can **remove** an email address by **clicking** the [x] on the side.
     After you add all the email addresses you want, **click** [Invite].
-    ![Shape panel](./images/Share-via-email.gif)
+    <figure markdown>
+    ![Shape panel](./images/Share-via-email.gif){width="500"}
+    </figure>
 
     Option 2: Sharing via a shareable link.
 
     First, **Click** on the [Link] tab. The shareable link is disabled by default, so you need to **click** on [Off] to enable it, and then **click** [Copy link]. You now have the link address in your clipboard, and you can share your link with people or your group.
-    ![Shape panel](./images/Share-via-link.gif)
+    <figure markdown>
+    ![Shape panel](./images/Share-via-link.gif){width="500"}
+    </figure>
 
 3. To set permissions for other users on this document, **click** on [Edit and share], and **choose** the desired permission option from the dropdown menu when sharing the document. Details of each option are written inside.
-![Shape panel](./images/set-share-permission.png)
+
+    <figure markdown>
+    ![Shape panel](./images/set-share-permission.png){width="500"}
+    </figure>
 
     You can change other users' permission by **clicking** [Manage] and **selecting** the permission option from the dropdown menu next to the user’s email. When you are finished, **click** [Done].
-![Shape panel](./images/Change-current-permission.gif)
+    <figure markdown>
+    ![Shape panel](./images/Change-current-permission.gif){width="500"}
+    </figure>
 
 ## Export a document
 
 1. To export a document, **click** [File] → [Export], and **select** the format you want to save the document in.
-![Shape panel](./images/export-document.png)
+
+<figure markdown>
+![Shape panel](./images/export-document.png){width="600"}
+</figure>
 
 2. The [Options] on the right side allows you to customize the exported document.
 
@@ -79,7 +99,10 @@ Even though the description mentioned there are a limited number of documents, s
     ![Shape panel](./images/Export-Options.gif)
 
 3. **Click** [Download] on the top right, and the file will be downloaded into your default download folder.
-![Shape panel](./images/download.png)
+
+<figure markdown>
+  ![Shape panel](./images/download.png){width="400"}
+</figure>
 
 !!!success
     Congratulations! You have successfully exported a Lucidchart document and downloaded it onto your computer.
