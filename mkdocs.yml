@@ -8,6 +8,10 @@ nav:
   - Troubleshooting: pages/Shuyi_Troubleshooting.md
   - Glossary: pages/Shuyi_Glossary.md
 
+repo_url: https://github.com/olgazim/LucidChart-User-Documentation
+
+repo_name: LucidChart-User-Documentation
+
 theme:
   name: material
   features:
@@ -15,6 +19,7 @@ theme:
     - navigation.tracking
     - navigation.sections
     - navigation.expand
+    - toc.integrate
 
   palette:
 
@@ -37,6 +42,8 @@ theme:
         name: Switch to light mode
 
 markdown_extensions:
+  - toc:
+      toc_depth: 2
   - admonition
   - pymdownx.details
   - pymdownx.superfences
