@@ -6,7 +6,10 @@ You need to register an account to use Lucidchart. We will be going through how 
 
 1. **Open** Lucidchart’s homepage, and **click** [Sign up free] on the top right.
 This will lead you to the signup page.
-![Shape panel](./images/sign-up-page.png)
+
+<figure markdown>
+  ![Shape panel](./images/sign-up-page.png){width="500"}
+</figure>
 
 2. **Click** [Start free] which is highlighted in orange.
 Even though the description mentioned there are a limited number of documents, shapes, and templates you can use for this option, this restriction will be weaved in the following step.
@@ -59,7 +62,7 @@ Even though the description mentioned there are a limited number of documents, s
 ![Shape panel](./images/set-share-permission.png)
 
     You can change other users' permission by **clicking** [Manage] and **selecting** the permission option from the dropdown menu next to the user’s email. When you are finished, **click** [Done].
-    ![Shape panel](./images/Change-current-permission.gif)
+![Shape panel](./images/Change-current-permission.gif)
 
 ## Export a document
 
