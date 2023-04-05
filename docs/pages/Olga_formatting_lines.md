@@ -127,16 +127,19 @@ A textbox will appear.
 
 
 ## Remove a text inscription from a line
-1. Double-click on the text box you want to remove.
-2. Place your cursor at the end of a text message.
-3. Remove the text by pressing the corresponding key on your keyboard.
+1. **Double-click** the text box you want to remove.
+2. **Place** your cursor at the end of a text message.
+3. **Remove** the text by pressing the 'Delete' key on your keyboard.
+![Remove text inscription](/images/remove-text-inscription.gif)
 
 
 # Change line path
 ## Modify the path of an angled line
-1. Select a line you want to modify by clicking on it.
-2. Use blue squares to change the path by clicking on the square and dragging the cursor in the desired direction.
-3. Click on the black canvas to apply changes.
+1. **Select** a line you want to modify by clicking on it.
+2. **Click** and **drag** blue squares to change the path in the desired direction.
+3. **Click** the blank canvas to apply changes.
+![Change line path](/images/change-angled-line-path.gif)
+
 
 ## Modify the path of a straight or curved line
 1. Select a line you want to modify by clicking on it.
@@ -144,4 +147,6 @@ A textbox will appear.
 3. Click on the black canvas to apply changes.
 
 !!!note
-    As you start dragging the white square to change a line path, a blue square will appear on each section of the line. You can use it to change part of each section.
+    As you start dragging the white square to change a line path, a blue square will appear on each section of the line. 
+    You can use it to change part of each section.
+![Change line path](/images/change-line-path.gif)
