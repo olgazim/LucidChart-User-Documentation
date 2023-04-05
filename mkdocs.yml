@@ -2,11 +2,11 @@ site_name: Lucidchart User Documentation
 
 nav:
   - Home: "index.md"
-  - General Operations: "pages/Shuyi_create_share_export.md"
-  - Formatting Shapes: "pages/Olga_formatting_shapes.md"
-  - Formatting Lines: "pages/Olga_formatting_lines.md"
-  - Troubleshooting: "pages/Shuyi_Troubleshooting.md"
-  - Glossary: "pages/Shuyi_Glossary.md"
+  - General Operations: "Shuyi_create_share_export.md"
+  - Formatting Shapes: "Olga_formatting_shapes.md"
+  - Formatting Lines: "Olga_formatting_lines.md"
+  - Troubleshooting: "Shuyi_Troubleshooting.md"
+  - Glossary: "Shuyi_Glossary.md"
 
 repo_url: https://github.com/olgazim/LucidChart-User-Documentation
 
