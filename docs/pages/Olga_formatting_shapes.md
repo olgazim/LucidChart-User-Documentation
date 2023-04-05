@@ -39,7 +39,7 @@ corner. For example, 'flowchart'.
 5. **Click** the [Use selected shapes] button in the bottom-right corner.
 ![Add a Shape Library](/images/add-shape-library.gif)
 !!!success
-    After you close the 'Insert content' window, you can see selected shape library
+    After you close the 'Insert content' window, you can see the selected shape library
     displayed on the Shapes panel.
 
 # Delete shape
@@ -111,18 +111,20 @@ Lucidchart provides great flexibility in managing the layout of the diagram.
 
 ## Align
 
-To align shapes: 
+To align shapes:
 
 1. **Select** shapes you want to align by **holding** [Ctrl] while **clicking** on the shapes
 or by **dragging** a box around shapes by **pressing** the left mouse button.
 
-A blue rectangle should be displayed around all selected shape. Additionally, each shape should be displayed with blue
-border.
-2. **Right-click** the mouse on the selection
-3. **Choose** the Align option from the options menu
+    A blue rectangle should be displayed around all selected shapes. Additionally, each shape should be displayed with a blue
+    border.
+
+2. **Right-click** the mouse on [selection]
+
+3. **Choose** the [Align] option from the options menu
+
 4. **Select** the alignment option from the list
 ![Align shapes](/images/align-shapes.gif)
-
 
 ## Group
 
@@ -140,13 +142,13 @@ or by **dragging** a box around shapes by **pressing** the left mouse button.
 
 To lock a position, size, or style of a shape:
 
-1. **Click** shapes you want to lock.
+1. **Click** the shapes you want to lock.
 2. **Click** the [lock icon] on the formatting toolbar.
 3. In the window, **check** the boxes for all characteristics of a shape you want to lock.
 4. **Close** the window to save changes
 ![Lock shapes](/images/lock-shape.gif)
 !!! note
-    To be able to modify locked position, size, or style of a shape again,  follow the same steps to [Unlock] the shape.
+    To be able to modify a locked position, size, or style of a shape again,  follow the same steps and click [Unlock].
 
 !!!warning
     If the shape you locked is inside a parent object, such as a container or a group,
