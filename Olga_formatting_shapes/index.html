@@ -42,6 +42,8 @@
       
     
     
+      <link rel="stylesheet" href="../stylesheets/extra.css">
+    
     <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -362,6 +364,11 @@
   
 </li>
         
+      </ul>
+    </nav>
+  
+</li>
+        
           <li class="md-nav__item">
   <a href="#set-default-style" class="md-nav__link">
     Set default style
@@ -373,11 +380,6 @@
   <a href="#copy-style" class="md-nav__link">
     Copy style
   </a>
-  
-</li>
-        
-      </ul>
-    </nav>
   
 </li>
         
@@ -500,11 +502,13 @@ information on several methods on how to deal with shapes.
 Starting from the basics of shapes and providing some advanced tips and tricks.</p>
 <h2 id="add-a-shape-to-your-document">Add a shape to your document</h2>
 <ol>
-<li>Choose a shape set by <strong>clicking</strong> the [arrow] on the left
+<li>
+<p>Choose a shape set by <strong>clicking</strong> the [arrow] on the left
 side of the set name.
-You will see a list of shapes available for the selected set.</li>
-</ol>
-<p><img alt="Shape panel" src="../images/shapes-panel.gif" /></p>
+You will see a list of shapes available for the selected set.</p>
+<p><figure markdown>
+<img alt="Shape panel" src="../images/shapes-panel.gif" width="650" />
+</figure></p>
 <div class="admonition note">
 <p class="admonition-title">Note</p>
 <p>If you can't find the desired shape in the list, you can choose another
@@ -512,10 +516,14 @@ predefined library or create a custom one.</p>
 <p><a href="#add_shape">Check the 'Add a shape library' section for more details.</a></p>
 <p><a href="#create_shape_library">Create a custom shape library</a></p>
 </div>
-<ol>
-<li><strong>Drag</strong> the desired shape from the list and <strong>drop</strong> it onto the canvas.</li>
+</li>
+<li>
+<p><strong>Drag</strong> the desired shape from the list and <strong>drop</strong> it onto the canvas.</p>
+</li>
 </ol>
-<p><img alt="Add a shape on the canvas" src="../images/add-shape-on-canvas.gif" /></p>
+<figure>
+<p><img alt="Add a shape on the canvas" src="../images/add-shape-on-canvas.gif" width="800" /></p>
+</figure>
 <div class="admonition success">
 <p class="admonition-title">Success</p>
 <p>The shape will appear on the canvas and is ready for further action.</p>
@@ -529,9 +537,11 @@ You will see the 'Insert content' window.</li>
 <li><strong>Type</strong> the name of the Shape Library you need in the [Search field] in the upper-left
 corner. For example, 'flowchart'.</li>
 <li><strong>Check</strong> the [checkbox] next to the sets you want to work with.</li>
-<li><strong>Click</strong> the [Use selected shapes] button in the bottom-right corner.
-<img alt="Add a Shape Library" src="../images/add-shape-library.gif" /></li>
+<li><strong>Click</strong> the [Use selected shapes] button in the bottom-right corner.</li>
 </ol>
+<figure>
+<p><img alt="Add a Shape Library" src="../images/add-shape-library.gif" width="800" /></p>
+</figure>
 <div class="admonition success">
 <p class="admonition-title">Success</p>
 <p>After you close the 'Insert content' window, you can see the selected shape library
@@ -546,7 +556,9 @@ displayed on the Shapes panel.</p>
 <p><strong>Press</strong> the 'Delete' or 'Backspace' key to delete or <strong>right-click</strong> the mouse on the shape and <strong>select</strong> [Delete].</p>
 </li>
 </ol>
-<p><img alt="Delete a shape" src="../images/delete-shape.gif" /></p>
+<figure>
+<p><img alt="Delete a shape" src="../images/delete-shape.gif" width="800" /></p>
+</figure>
 <div class="admonition success">
 <p class="admonition-title">Success</p>
 <p>The shape has been deleted.</p>
@@ -563,10 +575,12 @@ displayed on the Shapes panel.</p>
 <img alt="Paint bucket icon" src="../images/paint-bucket.png" /></p>
 </li>
 <li>
-<p><strong>Select</strong> the desired color from the menu. Colors are listed in different opacities and filling styles.
-<img alt="Change a shape color" src="../images/change-shape-color.gif" /></p>
+<p><strong>Select</strong> the desired color from the menu. Colors are listed in different opacities and filling styles.</p>
 </li>
 </ol>
+<figure>
+<p><img alt="Change a shape color" src="../images/change-shape-color.gif" width="800" /></p>
+</figure>
 <h3 id="border-style">Border style</h3>
 <h4 id="change-line-color">Change line color</h4>
 <ol>
@@ -583,18 +597,18 @@ displayed on the Shapes panel.</p>
 <li><strong>Select</strong> border type from the options in the dropdown, or <strong>set</strong> border thickness in the picker.
 <img alt="Style a shape border" src="../images/style_shape_border.gif" /></li>
 </ol>
-<h4 id="set-default-style">Set default style</h4>
+<h3 id="set-default-style">Set default style</h3>
 <p>To change the default style for all shapes in your project:</p>
 <ol>
 <li><strong>Click</strong> anywhere on the canvas to unselect any selected shape.</li>
 <li>Set style settings, such as fill color, line style, etc.
-<img alt="Set default style" src="../images/style_shape_border.gif" /></li>
+<img alt="Set default style" src="../images/set-default-style.gif" /></li>
 </ol>
 <div class="admonition success">
 <p class="admonition-title">Success</p>
 <p>From now on, any new shape you add will be styled according to the set style.</p>
 </div>
-<h4 id="copy-style">Copy style</h4>
+<h3 id="copy-style">Copy style</h3>
 <p>To apply the same style to all shapes on your canvas:</p>
 <ol>
 <li><strong>Click</strong> on the shape that you want to copy the style from.</li>
