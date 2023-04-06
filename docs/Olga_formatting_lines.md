@@ -18,7 +18,7 @@ side of the "Standard" set name. You will see a list of all shapes available for
         [Check the 'Add a shape library' section.](./Olga_formatting_shapes.md#add_shape)
 ![Line in the Shapes set](./images/line_in_shapes_set.png)
 
-2. **Click** an arrow icon and drag the element onto the canvas.
+2. **Click** the [arrow icon] and drag the element onto the canvas.
     ![Drag a line from the Shapes set](./images/drag_line_from_shapes_set.gif)
 
     !!!success
@@ -26,25 +26,25 @@ side of the "Standard" set name. You will see a list of all shapes available for
 
 ### Add a line from an existing shape on the canvas
 
-1. **Place** your cursor over any existing shape on the canvas.
+1. **Hover** your cursor over any existing shape on the canvas.
 
     You will see red circles appear on the border of the shape.
 
 2. **Click** any red circle.
 3. **Drag** your cursor from the shape.
-4. **Release** a mouse button to add a line on the canvas.
+4. **Release** the mouse button to add a line on the canvas.
 ![Pull a line from a shape](./images/pull_line_from_a_shape.gif)
 !!! success
     You should see a line added to the canvas, going out from the shape.
 !!! note
-    Drag the line to any existing shape to make a connection line.
+    Drag the line to any existing shape to make a connecting line.
     ![Connect shapes with a line](./images/connect_shape_with_a_line.gif)
 
 ### Add a line directly from a canvas
 
-1. **Click** the right mouse button on any blank spot on the canvas to see a menu.
-2. **Select** the draw the line option from the menu.
-3. **Move** the cursor to draw the line and **release** a mouse button to create a line on a blank canvas.
+1. **Right-Click** the mouse button on any blank spot on the canvas to see a [menu].
+2. **Select** the [Draw Line] option from the menu.
+3. **Move** the cursor to draw a line and **release** the mouse button to create a line on a blank canvas.
 ![Add line via menu](./images/add-line-via-menu.gif)
 !!!note
     If you need a perfectly straight line at 45&deg; degrees, hold the 'Shift' keyboard button while drawing a line.
@@ -61,7 +61,7 @@ A smart line automatically changes its path between two shapes on a diagram in t
     !!!warning
         Pull a cursor over the second object, until a blue border appears.
 
-2. Release the mouse button.
+2. **Release** the mouse button.
 ![Add a smart line](./images/add-smart-line.gif)
 
 !!!success
@@ -76,15 +76,15 @@ formatting option.
 ### Change a line color
 
 1. **Select** a line you want to modify by clicking it.
-2. **Click** the pencil icon in the formatting toolbar.
+2. **Click** the [pencil icon] on the formatting toolbar.
 ![Pencil icon](./images/pencil-icon.png)
-3. **Select** a color from a menu or add your color via the [+] button.
+3. **Select** a color from a menu or add your color by **clicking** the [+] button.
 ![Change a line color](./images/change-line-color.gif)
 
 ### Change a line shape
 
 1. **Select** a line you want to modify by clicking it.
-2. **Click** the dropdown with a horizontal line in the formatting toolbar.
+2. **Click** the dropdown with the [horizontal line icon] on the formatting toolbar.
 ![Line style dropdown](./images/line-style-dropdown.png)
 3. **Hover** your cursor over options to see how your diagram could look if the option is applied.
 4. **Click** the preferred option to apply shape changes to your line.
@@ -93,7 +93,7 @@ formatting option.
 ### Change a line style
 
 1. **Select** a line you want to modify by clicking on it.
-2. **Click** the dropdown with a horizontal line in the formatting toolbar.
+2. **Click** the dropdown with the [horizontal line icon] on the formatting toolbar.
 ![Line style dropdown](./images/line-style-dropdown.png)
 3. **Hover** your cursor over options to see how your line could look if the option is applied.
 4. **Click** the selected option to apply style changes to your line.
@@ -111,9 +111,9 @@ formatting option.
 ### Change a line width
 
 1. **Select** a line you want to modify by clicking it.
-2. **Click** the thickness picker next to the line style icon in the formatting toolbar.
+2. **Click** the [thickness picker] next to the [line style icon] on the formatting toolbar.
 ![Line width icon](./images/line-width-picker.png)
-3. **Use** up and down arrows on the side of the icon to change the line's width.
+3. **Use** [up and down arrows] on the side of the icon to change the line's width.
 !!!note
     Lucidchart allows lines width from 0.5px to 10px.
 ![Change line width](./images/change-line-width.gif)
@@ -121,7 +121,7 @@ formatting option.
 ### Change a line endpoint
 
 1. **Select** a line you want to modify by clicking it.
-2. **Click** the right or left endpoint dropdown in the formatting bar to change a line's left or right endpoints accordingly.
+2. **Click** the [right or left endpoint] dropdown in the formatting bar to change a line's left or right endpoints accordingly.
 ![Line endpoints dropdowns](./images/line-endpoints-dropdowns.png)
 3. **Hover** your cursor over options to see how your endpoint could look if the option is applied.
 4. **Click** the preferred option to apply style changes to your line.
@@ -133,11 +133,11 @@ formatting option.
 
 ### Add a text inscription to a line
 
-1. **Select** a line you want to add text inscription to by double-clicking it. 
+1. **Select** a line you want to add text inscription to by double-clicking it.
 
-   A textbox will appear.
+    A textbox will appear.
 
-2. **Delete** the default text in the box and **put** your text.
+2. **Delete** the default text in the box and **enter** your text.
 3. **Click** on the black canvas to apply changes.
 
 !!!note
