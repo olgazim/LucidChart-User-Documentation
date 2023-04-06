@@ -10,18 +10,18 @@ This guide is created for term 1 CST students who use a macOS system and have no
 
 ## By the end of this guide, you will be able to
 
-* Create a free upgraded Lucidchart account
-* Perform general operations in Lucidchart
-* Add and format shapes in Lucidchart
-* Add and format lines in Lucidchart
+1. Create a free upgraded Lucidchart account
+2. Perform general operations in Lucidchart
+3. Add and format shapes in Lucidchart
+4. Add and format lines in Lucidchart
 
 ## Prerequisites
 
 To follow these instructions, you will need:
 
-1. A computer with macOS operating system
-2. A myBCIT email account
-3. Basic knowledge of mouse, keyboard, and trackpad terminologies
+* A computer with macOS operating system
+* A myBCIT email account
+* Basic knowledge of mouse, keyboard, and trackpad terminologies
 
 ## Typographical Conventions
 

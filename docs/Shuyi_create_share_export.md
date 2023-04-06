@@ -47,7 +47,7 @@ Lucidchart provides various types of documents such as whiteboards, diagrams, mi
 
     Recommended templates will be generated.
 
-    **Click** [Start diagramming] in the pop-up window.
+2. **Click** [Start diagramming] in the pop-up window.
 
     This will bring you to a blank diagram.
     ![Shape panel](./images/Register-Start-Diagramming.gif)
@@ -55,7 +55,7 @@ Lucidchart provides various types of documents such as whiteboards, diagrams, mi
     !!!success
         You have now successfully created a blank diagram.
 
-2. To rename your diagram, **click** on [Blank diagram] at the top left, **enter** the new name for your document, and press **return**.
+3. To rename your diagram, **click** on [Blank diagram] at the top left, **enter** the new name for your document, and press **return**.
 
 !!!note
     You can see there is a clock symbol with the text “Saved” next to the menu bar indicating your new diagram name is successfully saved.
@@ -112,17 +112,17 @@ You can set users' permission of the document you share and individual user's pe
 
 1. To set permissions for other users on this document, **click** on [Edit and share], and **choose** the desired permission option from the dropdown menu when sharing the document.
 
-2. Details of each option are written inside.
+    Details of each option are written inside.
 
     <figure markdown>
     ![Shape panel](./images/set-share-permission.png){width="500"}
     </figure>
 
-3. You can change other users' permission by **clicking** [Manage] and **selecting** the permission option from the dropdown menu next to the user’s email.
+2. You can change other users' permission by **clicking** [Manage] and **selecting** the permission option from the dropdown menu next to the user’s email.
 
-4. When you are finished, **click** [Done].
+3. When you are finished, **click** [Done].
 
-5. The changes will be saved.
+4. The changes will be saved.
 
     <figure markdown>
     ![Shape panel](./images/Change-current-permission.gif){width="500"}
@@ -132,9 +132,9 @@ You can set users' permission of the document you share and individual user's pe
 
 1. To export a document, **click** [File] → [Export], and **select** the format you want to save the document in.
 
-<figure markdown>
-![Shape panel](./images/export-document.png){width="600"}
-</figure>
+    <figure markdown>
+    ![Shape panel](./images/export-document.png){width="600"}
+    </figure>
 
 2. The [Options] on the right side allows you to customize the exported document.
 
