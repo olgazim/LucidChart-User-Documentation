@@ -6,7 +6,7 @@ If you are interested in more information about Lucidchart’s functions, please
 
 ## Is This Guide for You?
 
-This guide is created for term 1 CST students who have no experience with Lucidchart. We will go through detailed step-by-step instructions with you to help you get familiar with the most common functions that you will need to use in the CST program.
+This guide is created for term 1 CST students who use a macOS system and have no experience with Lucidchart. We will go through detailed step-by-step instructions with you to help you get familiar with the most common functions that you will need to use in the CST program.
 
 ## By the end of this guide, you will be able to
 
