@@ -1,6 +1,6 @@
 # Overview of Lucidchart Documentation
 
-Welcome! This documentation will guide you with detailed step-by-step instructions on the Lucidchart functions you will need in CST courses.
+Welcome! This documentation will guide you with detailed step-by-step instructions on the [Lucidchart](https://www.lucidchart.com/) functions you will need in CST courses.
 
 The goal of this documentation is to help new CST students to get familiar with basic functions in Lucidchart, one of the most frequently used website applications in the CST program. We will also show you some convenient shortcuts you may use while diagramming with Lucidchart.
 

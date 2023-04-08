@@ -1,6 +1,6 @@
 ## Introduction
 
-The purpose of this document is to help you with Lucidchart, a web-based diagramming application that CST students use frequently in CST courses. Lucidchart allows users to collaborate on drawing, editing, and sharing diagrams.
+The purpose of this document is to help you with [Lucidchart](https://www.lucidchart.com/), a web-based diagramming application that CST students use frequently in CST courses. Lucidchart allows users to collaborate on drawing, editing, and sharing diagrams.
 
 If you are interested in more information about Lucidchart’s functions, please visit [Lucidchart website](https://lucidchart.zendesk.com/hc/en-us/categories/360001742031-Get-Started-with-Lucidchart).
 
