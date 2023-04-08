@@ -7,8 +7,10 @@ Starting from the basics of shapes and providing some advanced tips and tricks.
 
 ## Add a shape to your document
 
+To add a shape to your canvas:
+
 1. Choose a shape set by **clicking** the [arrow] on the left
-side of the set name.
+side of the set name in the Shape menu.
 You will see a list of shapes available for the selected set.
 
     <figure markdown>
@@ -33,6 +35,8 @@ You will see a list of shapes available for the selected set.
     The shape will appear on the canvas and is ready for further action.
 
 ## <a id = "add_shape"> Add a shape library </a>
+Lucidchart conveniently organizes all shape types in libraries based on diagram types. 
+To add a library to your Shape menu, follow the steps below:
 
 1. **Click** on the [+ Shape Library] button in the bottom-left corner
 of the window or **press** the 'M' key.
@@ -51,6 +55,7 @@ corner. For example, 'flowchart'.
     displayed on the Shapes panel.
 
 ## Delete shape
+To delete a shape: 
 
 1. **Click** on the shape you want to delete. You will see a blue frame around the shape with squares on it.  
 
@@ -67,12 +72,14 @@ corner. For example, 'flowchart'.
 You can change the fill color of a shape, border thickness, style, or color.
 
 ### Fill color
+To apply color to a shape: 
 
 1. **Click** on the shape you want to modify.
 
 2. **Click** the [paint bucket icon] on the formatting toolbar.
-![Paint bucket icon](./images/paint-bucket.png)
-
+    <figure markdown>
+        ![Paint bucket icon](./images/paint-bucket.png){width="1000"}
+    </figure>
 3. **Select** the desired color from the menu. Colors are listed in different opacities and filling styles.
 
 <figure markdown>
@@ -80,6 +87,8 @@ You can change the fill color of a shape, border thickness, style, or color.
 </figure>
 
 ### Border style
+
+You can change border style in various ways, from simple color changes to custom line border thickness and type.
 
 #### Change line color
 
@@ -120,7 +129,9 @@ To apply the same style to all shapes on your canvas:
 
 ## Manage shapes layout
 
-Lucidchart provides great flexibility in managing the layout of the diagram.
+Lucidchart provides excellent flexibility in managing the layout of the diagram. You can easily change an alignment
+of all shapes in your project, combine several shapes in a group to work with them together, or lock position, size,
+or style for selected shapes 
 
 ### Align
 
