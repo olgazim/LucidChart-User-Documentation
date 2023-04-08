@@ -17,7 +17,7 @@ Right after we received the user guide assignment, our team brainstormed the top
 
 We used Discord as our main online communication tool in addition to in-person meetings while working together on this project.
 
-We also used Git and Github to update our work. We assigned ourselves individual pages to avoid potential push conflicts. After finishing writing the content for all the pages, we use Discord to communicate the changes and coordinate commits.
+We also used Git and Github to update our work. We assigned ourselves individual pages to avoid potential push conflicts. After finishing writing the content for all the pages, we used Discord to communicate the changes and coordinate commits.
 
 ## How We Created This Guide
 
