@@ -6,7 +6,8 @@ and the guide provides information on how students can create and modify lines.
 
 ## Add a regular line to your document
 
-There are three ways a student can add a regular line.
+There are three ways you can add a regular line. In this section, you will learn how to add a line from the Shapes menu, 
+a blank canvas, or by using existing shapes in your document.
 
 ### Add a line from a shapes menu
 
@@ -52,7 +53,7 @@ side of the "Standard" set name. You will see a list of all shapes available for
 !!!success
     Now a line is displayed on your canvas.
 
-### Add a smart line to your document
+## Add a smart line to your document
 
 A smart line automatically changes its path between two shapes on a diagram in the most efficient way.
 
@@ -69,7 +70,7 @@ A smart line automatically changes its path between two shapes on a diagram in t
 
 ## Style a line
 
-Lucidchart provides various options on how you can customize an existing line.
+Lucidchart provides various options on how you can customize an existing line, such as color, shape, style, width and type of endpoints.
 To start any customization, select a line on the canvas and go to the formatting toolbar to choose a desired
 formatting option.
 
@@ -130,6 +131,7 @@ formatting option.
 ![Change line endpoints](./images/change-line-endpoints.gif)
 
 ## Text inscriptions
+To make your diagram reader-friendly, you can label lines. Lucidchart allows you to add and remove text annotations to any line in your document.
 
 ### Add a text inscription to a line
 
@@ -153,6 +155,8 @@ formatting option.
 
 
 ## Change line path
+You will need to modify the path of lines in your diagrams as they become more complex to ensure clear connections between elements.
+With Lucidchart, you can easily adjust paths of all types of lines, including angled, straight, or curved, as needed.
 ### Change the path of an angled line
 
 1. **Select** a line you want to modify by clicking on it.
